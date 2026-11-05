@@ -12,9 +12,9 @@ This project models the time between trades in three very different markets: a c
 | | |
 |---|---|
 | **Markets** | GBP/USD (FX), BTCUSDT (crypto), NVDA (US equity) |
-| **Data** | 7.3M trade durations over a 14-day training window, plus a held-out test day |
+| **Data** | 7.3M trade durations over a 14-day training window |
 | **Resolution** | Millisecond, microsecond and nanosecond |
-| **Models** | Poisson baselines, EACD, WACD, Log-ACD (two forms), Burr-ACD |
+| **Models** | Poisson baselines, EACD, WACD, Log-ACD (two forms)|
 | **Language** | R (R Markdown) |
 | **Key packages** | `ACDm`, `data.table`, `archive` |
 
