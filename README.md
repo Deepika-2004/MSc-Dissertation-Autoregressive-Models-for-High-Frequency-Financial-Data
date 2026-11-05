@@ -91,7 +91,7 @@ Models were fitted in order of increasing flexibility, each one motivated by a s
 
 ```
 .
-├── code_D.Rmd        # Full analysis: data loading, pre-processing, model fitting, diagnostics, forecasting, simulation
+├── code_D.Rmd        # Full analysis: data loading, pre-processing, model fitting, diagnostics, simulation
 └── README.md
 ```
 
